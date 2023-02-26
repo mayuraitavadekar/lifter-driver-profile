@@ -15,7 +15,7 @@ function App() {
        <footer>
         <div className='container mx-auto footer-div'>
           <span className='footer-content-span'>
-            <a href="http://example.com">
+            <a href="https://github.com/mayuraitavadekar/lifter-driver-profile">
               <GitHubIcon />
             </a>
           </span>
