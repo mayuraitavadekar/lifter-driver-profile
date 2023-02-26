@@ -4,7 +4,7 @@
 
 Responsive UI sample of driver admin built using React, TailwindCSS, Media Queries, HTML, CSS3.
 
-visit page [https://rainbow-centaur-5d0512.netlify.app/](here).
+visit page [here](http://rainbow-centaur-5d0512.netlify.app/).
 
-portfolio link [http://mayuraitavadekar.com](here).
+portfolio link [here](http://mayuraitavadekar.com).
 
