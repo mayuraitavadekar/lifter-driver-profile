@@ -1,0 +1,13 @@
+.admin-notes-div {
+    background-color: white;
+}
+
+.note-div {
+    padding:5px;
+    margin: 8px;
+}
+
+.note-span {
+    background-color: lightgray;
+    padding: 10px;
+}

@@ -1,0 +1,21 @@
+.heading-div {
+    background-color: black;
+    color: white;
+}
+
+.heading-title-div {
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px;
+    
+}
+
+.csv-div {
+    padding: 10px;
+}
+
+.csv-span {
+    background-color: white;
+    color: black;
+    padding: 5px;
+}
