@@ -1,5 +1,6 @@
 import {useState} from 'react'
 import "./Header.css"
+import CloseIcon from '@mui/icons-material/Close';
 
 // import material ui icon
 import MenuIcon from '@mui/icons-material/Menu';
@@ -28,7 +29,8 @@ export default function Header() {
       <div className='main-heading-div'>
         <div className='left-menu-icon'>
           <IconButton onClick={handleClick}>  
-            <MenuIcon className="menu-icon" />
+            {drawerDisplay === "visible" ? <CloseIcon className='menu-icon' /> : <MenuIcon className="menu-icon" />}
+            {/* <MenuIcon className="menu-icon" /> */}
           </IconButton> 
         </div>
         <div className='main-heading-div'>
