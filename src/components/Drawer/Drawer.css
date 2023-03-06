@@ -16,8 +16,12 @@
     left: 0;
     text-align: center;
     transition: 0.5s;
+    transform: translateX(100%);
+    visibility: hidden;
+    display: block;
     width: 0%;
 }
+
 
 @media screen and (max-width: 1280px) {
     .main-drawer-div-visible {
@@ -77,6 +81,7 @@
 
 .menu-option {
     margin-left: 20%;
+    margin-right: 10%;
     padding: 15px;
     text-align: left;
 }

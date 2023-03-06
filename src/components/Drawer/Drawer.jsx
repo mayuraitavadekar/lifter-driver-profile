@@ -11,6 +11,7 @@ import MonetizationOnIcon from '@mui/icons-material/MonetizationOn';
 export default function Drawer({
   drawerDisplay
 }) {
+
   return (
     <div>
         <div className={`${drawerDisplay === "visible" ? "main-drawer-div-visible" : "main-drawer-div-hidden"}`}>
